@@ -1,0 +1,42 @@
+#bg{
+    background-color: green;
+    background-image: url(/clip.png);
+    background-repeat: no-repeat;
+    background-size: 500px 500px;
+    background-position: right bottom;
+}
+
+
+h1{
+    padding: 0;
+    background-position: center;
+}
+.bg{
+    
+    margin: 300px;
+    background-image: url(/pic.png);
+    background-size: 100% 100%, 350px;
+    background-repeat: no-repeat;
+    
+
+    padding: 100px;
+    border-style: solid ;
+    border-color: blue;
+    border-radius: 10px 10px;
+}
+.fg{
+    padding-left: 350px;
+}
+#link{
+    padding: 50px;
+}
+body{
+    background-color: green;
+    
+}
+.bg{
+    background-color: white;
+}
+.div{
+    background-image: url(/pic1.jpg),url(/pic2.jpeg),url(/pic3.jpeg);
+}
